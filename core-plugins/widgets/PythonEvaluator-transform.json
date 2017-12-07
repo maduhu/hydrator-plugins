@@ -1,7 +1,9 @@
 {
   "metadata": {
-    "spec-version": "1.5"
+    "spec-version": "1.6"
   },
+  "emit-alerts": true,
+  "emit-errors": true,
   "display-name" : "Python",
   "configuration-groups": [
     {

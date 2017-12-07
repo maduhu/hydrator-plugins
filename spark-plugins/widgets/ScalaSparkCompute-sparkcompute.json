@@ -1,7 +1,9 @@
 {
   "metadata": {
-    "spec-version": "1.0"
+    "spec-version": "1.6"
   },
+  "emit-alerts": true,
+  "emit-errors": true,
   "configuration-groups": [
     {
       "label": "Spark Scala",
